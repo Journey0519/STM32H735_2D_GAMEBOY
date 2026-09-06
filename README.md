@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31882086/README.md)
 # AJOU SLUG — 유무선 통신을 활용한 2D 핸드헬드 게임기
 
 STM32H735G-DK 보드 위에서 직접 하드웨어 초기화부터 구현한 2D 액션 게임입니다.
